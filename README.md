@@ -24,5 +24,7 @@
 
 
 
-####
+## 如何PR
+
+在gitbook.com网站上利用github账号登录，fork daoqiugsy/SurviveWUSTManual 到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到main branch
 
